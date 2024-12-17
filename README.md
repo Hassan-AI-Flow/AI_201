@@ -5,3 +5,5 @@
 - *Alhumdullilah✨ make `second Chatbot` in google colab.*
 
 - *Define .md file of `API_Parameters`.*
+
+- *Making a `imgae_chatbot` using API_key in colab.*
