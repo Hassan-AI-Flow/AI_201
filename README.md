@@ -22,7 +22,7 @@
 ---
  
 </br>
-<img align="right" alt="Coding" height="320" width="300" src="/HassanProfileGIF.gif" />
+<img align="right" alt="Coding" height="320" width="300" src="/RidaProfileGIF.gif" />
 
 ### About Me 
 
@@ -31,7 +31,7 @@
 - 💻 **Full Stack Developer** | **Chatbot Developer**  
 - 🔗 Portfolio: [**Hassan Ashraf Portfolio**]
 - 📬 Reach me at: *hr8581492@gmail.com* 
-- 🌐 Launching modern web apps, AI chatbots, and e-commerce platforms
+- 🌐 Launching modern web apps, AI chatbots platforms
 - ⚡ Building projects with **Python, Streamlit, Langchain, CrewAI,** and more...
 
 </br> 
