@@ -26,8 +26,7 @@
 
 ### About Me 
 
-- 📚 Currently enrolled in **Agentic & Robotics AI Engineer**  
-- 🎓 **Student Leader** at *Governor Sindh Initiative* for GenAI, Web3, and Metaverse  
+- 📚 Currently enrolled in **Agentic & Robotics AI Engineer**   
 - 💻 **Full Stack Developer** | **Chatbot Developer**  
 - 🔗 Portfolio: [**Hassan Ashraf Portfolio**]
 - 📬 Reach me at: *hr8581492@gmail.com* 
@@ -63,12 +62,5 @@
 </p>
 
 ---
-
-<h2>:label: Github Stats</h2>
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <a href="#"><img alt="Hassan Ashraf Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hassan Ashrafz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" /></a>
-  <a href="#"><img alt="Hassan Ashraf Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAshraf&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493" height="200px" width="450px" /></a>
-</div>
 
 ### <h2 align="center">💡 *“Transforming Ideas into Scalable Web & AI Solutions!”* ✨</h2>
