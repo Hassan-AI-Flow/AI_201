@@ -60,9 +60,6 @@
   <a href="https://www.linkedin.com/in/hassan-ashraf-468a7333b" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="40" />
   </a>
-  <a href="https://medium.com/@rnaz3414" target="_blank">
-    <img src="https://simpleicons.org/icons/medium.svg" alt="Medium" height="35" width="40" />
-  </a>
 </p>
 
 ---
